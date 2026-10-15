@@ -37,4 +37,4 @@ For a penetration test, security audit, continuous monitoring, or team training,
 
 ## Reporting a vulnerability
 
-Found a security issue in one of our platforms? Send the affected asset, reproduction steps, and impact to [sales@redlimit.id](mailto:sales@redlimit.id). Give us time to fix it before you publish, and keep your testing non-destructive.
+We run a vulnerability disclosure program, and researchers who follow the rules of engagement are covered by our Safe Harbor policy. Scope, accepted vulnerability types, and the submission form are at [hack.redlimit.id/security](https://hack.redlimit.id/security).
