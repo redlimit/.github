@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/redlimit/.github/main/profile/assets/logo.png" alt="Redlimit, Assist Securing System" width="300">
+  <img src="https://raw.githubusercontent.com/redlimit/.github/main/profile/assets/banner.png" alt="Redlimit, Assist Securing System. Home of the hack.redlimit CTF Lab, Dettack attack surface management, and the Meta4sec community." width="100%">
 </p>
 
 <p align="center">
