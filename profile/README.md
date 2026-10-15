@@ -11,7 +11,7 @@
 
 ---
 
-Redlimit is a cybersecurity company in Jakarta, founded in 2022. We work both sides for Indonesian organizations: penetration testing, red team engagements, and security audits, then SOC implementation and continuous monitoring for the teams who have to defend. We build the platforms below and teach through Meta4sec, the community we started.
+Redlimit is a cybersecurity company in Jakarta, Indonesia, founded in 2022. We work both sides for organizations, running penetration tests, red team engagements, and security audits, then implementing SOC and continuous monitoring for the teams who have to defend. We build the platforms below and teach through Meta4sec, the community we started.
 
 ## Platforms
 
