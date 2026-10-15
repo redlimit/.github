@@ -18,7 +18,7 @@ Redlimit is a cybersecurity company in Jakarta, founded in 2022. We run penetrat
 | | |
 | --- | --- |
 | [**Dettack**](https://dettack.com/) | Detect the attack, check what attackers do. External attack surface management, no agents or credentials. |
-| [**CTF Lab**](https://hack.redlimit.id/) | Hack. Learn. Conquer. Cybersecurity skill development across 125+ hands-on challenges. |
+| [**CTF Lab**](https://hack.redlimit.id/) | Hands-on hacking lab. 125+ challenges across 8 categories, with guided paths for bug bounty, CTF, and SOC work. |
 | [**Academy**](https://academy.redlimit.id/) | Your ticket to a career in cybersecurity. Bootcamps in pentest and bug bounty, 1,000+ alumni. |
 | [**HackTools**](https://tools.redlimit.id/) | Hacking toolkit for the community. Free recon, payload, and reporting tools in the browser. |
 | [**BBRD**](https://wu.redlimit.id/) | Bug bounty report database. 4,800+ verified writeups across 751 programs. |
